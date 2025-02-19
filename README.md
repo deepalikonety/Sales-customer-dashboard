@@ -11,7 +11,7 @@ This repository contains my **Tableau Public Dashboard**, which analyzes sales a
 - Data-driven insights for business growth
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./images/dashboard-preview.png)
+![Dashboard Preview](./dashboard-preview.png)
 
 ## 📂 Files
 - `dashboard-link.txt` → Contains the Tableau Public URL
@@ -23,4 +23,4 @@ This repository contains my **Tableau Public Dashboard**, which analyzes sales a
 3. Download the `.twbx` file (if available).  
 
 ## 🏆 About Me
-For questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile).
+For questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/deepali-konety-b64717275/).
